@@ -53,7 +53,7 @@ If you don't have a Telegram account, download and install the app [Telegram](ht
 
 ### 7. **Manage Your Bot (Optional)**
    - BotFather also allows you to manage your bot, including setting a description, about section, and profile picture. To access more commands, simply send `/help` to BotFather for a list of options.
-   - More details of Telegram BotFather are mentioned in [**Teligram BotFather**](https://github.com/abhijit-003/How-to-Create-Telegram-Bot/blob/main/Telegram%20BotFather/BotFather.md)
+   - More details of Telegram BotFather are mentioned in [**Telegram BotFather**](https://github.com/abhijit-003/How-to-Create-Telegram-Bot/blob/main/Telegram%20BotFather/BotFather.md)
 
 ## 3. **Set Up Your Development Environment:**
 
