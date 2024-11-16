@@ -11,7 +11,8 @@ If you don't have a Telegram account, download and install the app [Telegram](ht
 
 ## 2. Create a Bot with BotFather
 
-To create a new Telegram bot, you'll need to interact with [**BotFather**](https://t.me/BotFather), which is the official Telegram bot used for creating and managing bots. Follow the steps below to create your own bot:
+- To create a new Telegram bot, you'll need to interact with [**BotFather**](https://t.me/BotFather), which is the official Telegram bot used for creating and managing bots. To Know more about Telegram BotFather bot visit [**Telegram BotFather Bot**](https://github.com/abhijit-003/How-to-Create-Telegram-Bot/blob/main/Telegram%20BotFather/BotFather.md)
+- Follow the steps below to create your own bot:
 
 ## Step-by-Step Instructions:
 
@@ -52,7 +53,7 @@ To create a new Telegram bot, you'll need to interact with [**BotFather**](https
 
 ### 7. **Manage Your Bot (Optional)**
    - BotFather also allows you to manage your bot, including setting a description, about section, and profile picture. To access more commands, simply send `/help` to BotFather for a list of options.
-   - More details of Telegram BotFather are mentioned in [**Teligram BotFather**]()
+   - More details of Telegram BotFather are mentioned in [**Teligram BotFather**](https://github.com/abhijit-003/How-to-Create-Telegram-Bot/blob/main/Telegram%20BotFather/BotFather.md)
 
 ## 3. **Set Up Your Development Environment:**
 
